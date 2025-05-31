@@ -35,8 +35,8 @@ This Terraform project sets up a complete two-tier architecture on AWS using:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/panwar100/two-tier-web-architecture.git
-cd terraform_2tier
+git clone https://github.com/panwar100/terraform-aws-two-tier-architecture
+cd terraform-aws-two-tier-architecture
 ```
 
 ### 2. 🖥️ Installation of Terraform
