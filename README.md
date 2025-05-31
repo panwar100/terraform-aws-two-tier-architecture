@@ -90,6 +90,10 @@ Go to AWS Console --> Route53 --> Hosted Zones and ensure you have a public host
 
 ![Screenshot 2025-05-31 182155](https://github.com/user-attachments/assets/7f6da816-cbba-4896-817b-66ed35a3b59d)
 
+Add your nameservers in your domain like this
+
+![Screenshot 2025-05-31 232516](https://github.com/user-attachments/assets/1c433a31-a026-4174-b7e9-a707162af557)
+
 ### 7. 🔐 ACM certificate
 Go to AWS console --> AWS Certificate Manager (ACM) and make sure you have a valid certificate in Issued status, if not, feel free to create one and use the domain name on which you are planning to host your application.
 
